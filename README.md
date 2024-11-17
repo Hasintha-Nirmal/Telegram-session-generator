@@ -17,5 +17,3 @@ pip install pyrogram
    - Display success message
 
 The script includes error handling and clear instructions. The session string will be saved securely in your Saved Messages, which you can access only from your account.
-
-Would you like me to explain any part of the code or add additional features?
